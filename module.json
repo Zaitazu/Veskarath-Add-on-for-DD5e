@@ -1,0 +1,31 @@
+{
+  "id": "veskarath-add-on-for-dd5e",
+  "title": "Veskarath - Add on for DD5e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "world-script.js"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Zaitazu",
+      "discord": "zaitazu",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Zaitazu/Veskarath-Add-on-for-DD5e",
+  "manifest": "",
+  "download": ""
+}
