@@ -1,7 +1,7 @@
 {
   "id": "veskarath-add-on-for-dd5e",
   "title": "Veskarath - Add on for DD5e",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -26,6 +26,6 @@
     }
   ],
   "url": "https://github.com/Zaitazu/Veskarath-Add-on-for-DD5e",
-  "manifest": "https://github.com/Zaitazu/Veskarath-Add-on-for-DD5e/releases/download/1.0.2/module.json",
-  "download": "https://github.com/Zaitazu/Veskarath-Add-on-for-DD5e/releases/download/1.0.2/Veskarath-add-on-for-dd5e.zip"
+  "manifest": "https://github.com/Zaitazu/Veskarath-Add-on-for-DD5e/releases/download/1.0.3/module.json",
+  "download": "https://github.com/Zaitazu/Veskarath-Add-on-for-DD5e/releases/download/1.0.3/Veskarath-add-on-for-dd5e.zip"
 }
